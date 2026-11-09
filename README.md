@@ -1,17 +1,21 @@
-# camera_app_sphamandla_902014129
+# Camera App
 
-A new Flutter project.
+A Flutter app built for BITSP2111 Structured Programming 1.
 
-## Getting Started
+## What it does
+- Take a photo with the device camera
+- Pick a photo from the gallery
+- Show the chosen photo on screen
+- Save a permanent copy in the app's documents folder
 
-This project is a starting point for a Flutter application.
+## Packages used
+- image_picker
+- path_provider
 
-A few resources to get you started if this is your first Flutter project:
+## How to run
+1. Run `flutter pub get`
+2. Connect an Android phone or start an emulator
+3. Run `flutter run`
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Sphamandla Dlamini (902014129)
